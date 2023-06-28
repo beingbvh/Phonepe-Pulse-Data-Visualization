@@ -70,5 +70,7 @@ accessible to users.
 * From the analysis, **basic insights** were given in user friendly manner.
 * Also provided with the **annual report**
 
+# Dashboard images:
+
 
 **Inspired from**:https://www.phonepe.com/pulse/
