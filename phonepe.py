@@ -233,7 +233,7 @@ df_top_user = pd.DataFrame(top_user)
 mydb = mysql.connector.connect(
   host = "localhost",
   user = "root",
-  password = "balass097",
+  password = "root",
   auth_plugin = "mysql_native_password"
 )
 
@@ -246,7 +246,7 @@ mycursor.close()
 mydb.close()
 
 # Connect to the new created database
-engine = create_engine('mysql+mysqlconnector://root:balass097@localhost/phonepe_pulse', echo=False)
+engine = create_engine('mysql+mysqlconnector://root:root@localhost/phonepe_pulse', echo=False)
 
 # Use pandas to insert the DataFrames datas to the SQL Database -> table1
 
