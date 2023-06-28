@@ -62,15 +62,23 @@ accessible to users.
 
 # Dashboard:
 * It contains information about Phonepe in the **ABOUT** page and details about the **Phonepe pulse Data Visualisation** in the  **HOME** page
-* **Analysis**: 
+* **ANALYSIS**: 
 * It provides information based on **all India , States and Top categories**
 * Under these it provides analysis based on the **Transaction and User** data in each category.
 * Provides information based on the ** year and Quarter**
-* **Insights**:
+* **INSIGHTS**:
 * From the analysis, **basic insights** were given in user friendly manner.
 * Also provided with the **annual report**
 
 # Dashboard images:
+![About](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/7357caff-35b0-4697-8846-8fa22e709e98)
+
+
+
+![Analysis](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/72380131-e296-4a10-b148-295143656ffe)
+
+![Insights](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/f8688904-7317-497b-bab5-91496320a652)
+
 
 
 **Inspired from**:https://www.phonepe.com/pulse/
