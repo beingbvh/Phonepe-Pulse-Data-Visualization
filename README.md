@@ -75,6 +75,14 @@ accessible to users.
 * Also provided with the **annual report**
 
 # Dashboard images:
+![About](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/62b99213-43ba-47a8-9be7-ada7ebfda846)
+
+![Home](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/3d2a1c39-ee13-489f-a0a6-e97f59efb444)
+
+![Analysis](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/13ed9311-8fa7-46e5-b398-71a07e5eddbd)
+
+![Insights](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/a6f697bd-16de-4057-b2df-b17dd84eb33b)
 
 
 **Inspired from**:https://www.phonepe.com/pulse/
+**Streamlit**:http://localhost:8501/
