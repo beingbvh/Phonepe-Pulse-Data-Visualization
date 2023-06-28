@@ -1,5 +1,7 @@
 # Phonepe Pulse Data Visualization and Exploration:A User-Friendly Tool Using Streamlit and Plotly
 
+**DEMO VIDEO**: https://youtu.be/6PLoHVPtcVs
+
 ## ABOUT PHONEPE:
 ![phonepe1](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/fa39d457-d483-495b-bec7-467abfe66e39)
 
@@ -75,6 +77,8 @@ accessible to users.
 * Also provided with the **annual report**
 
 # Dashboard images:
+
+
 ![About](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/62b99213-43ba-47a8-9be7-ada7ebfda846)
 
 ![Home](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/3d2a1c39-ee13-489f-a0a6-e97f59efb444)
@@ -83,6 +87,10 @@ accessible to users.
 
 ![Insights](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/a6f697bd-16de-4057-b2df-b17dd84eb33b)
 
+
+**DEMO VIDEO**: https://youtu.be/6PLoHVPtcVs
+
+**LinkedIn**: https://www.linkedin.com/feed/update/urn:li:activity:7079746368721879040/
 
 **Inspired from**:https://www.phonepe.com/pulse/
 
